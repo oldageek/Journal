@@ -1,0 +1,32 @@
+
+.tablero{
+  margin: 0 auto;
+  width: 1300px;
+  height: 500px;
+
+}
+
+.iniciar{
+  width: 150px;
+  height: 80px;
+  background-color: yellow;
+  color: darkblue;
+  float: left;
+  margin-top: 418px;
+  padding: 20px;
+  font-size: 25px;
+}
+
+
+.logo-tablero{
+  float: left;
+  position: relative;
+  margin-top: 280px;
+  margin-left: 400px;
+  width: 180px;
+  height: 80px;
+  background-image: url(../img/logo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}

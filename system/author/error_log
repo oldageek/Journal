@@ -1,0 +1,6 @@
+[24-Nov-2017 14:40:44 America/Denver] PHP Notice:  Undefined index: id in /home1/placeho6/public_html/omar/journal/system/author/header.php on line 7
+[24-Nov-2017 14:40:44 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/placeho6/public_html/omar/journal/system/author/header.php on line 12
+[11-Jul-2018 21:27:17 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'placeho6_adrevis'@'localhost' (using password: YES) in /home3/mexilabc/public_html/omar/journal/system/includes/mysql_connect.php on line 21
+[11-Jul-2018 21:27:17 America/Denver] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/mexilabc/public_html/omar/journal/system/includes/mysql_connect.php on line 21
+[05-Oct-2018 06:13:29 America/Denver] PHP Notice:  Undefined index: id in /home3/mexilabc/public_html/omar/journal/system/author/header.php on line 7
+[05-Oct-2018 06:13:29 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/mexilabc/public_html/omar/journal/system/author/header.php on line 12

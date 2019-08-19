@@ -1,0 +1,2 @@
+[24-Jan-2018 13:56:15 America/Denver] PHP Notice:  Undefined index: id in /home1/placeho6/public_html/omar/journal/system/reviewer/header.php on line 7
+[24-Jan-2018 13:56:15 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/placeho6/public_html/omar/journal/system/reviewer/header.php on line 10
